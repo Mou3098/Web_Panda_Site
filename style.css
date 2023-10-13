@@ -1,0 +1,59 @@
+.cls1 {
+  padding: 2px;
+  background-color: rgb(247, 246, 246);
+}
+.logo {
+  padding-top: 5px;
+  padding-left: 5px;
+}
+.cls2 {
+  background-color: rgb(255, 216, 235);
+  border-radius: 10px;
+}
+.pa {
+  padding: 12%;
+}
+.price {
+  color: rgb(249, 56, 152);
+}
+.btn1 {
+  color: white;
+  font-size: x-large;
+  background-color: rgb(249, 56, 152);
+  border-color: rgb(249, 56, 152);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.cls31 {
+  background-color: rgb(255, 196, 0);
+  border-radius: 10px;
+}
+.cls311 {
+  color: white;
+  font-weight: 700;
+  font-size: xx-large;
+}
+.cls32 {
+  background-color: purple;
+  border-radius: 10px;
+}
+.cls33 {
+  background-color: darkgreen;
+  border-radius: 10px;
+}
+
+.mail {
+  color: rgb(113, 107, 107);
+}
+
+.footer {
+  color: darkgray;
+}
+
+.cls5 {
+  margin: 70px;
+  background-color: rgb(255, 216, 235);
+  padding: 10% 35%;
+  border-radius: 10px;
+}
